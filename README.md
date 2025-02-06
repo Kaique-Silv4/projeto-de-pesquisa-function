@@ -7,6 +7,3 @@ Aplicação web para pesquisas, desenvolvido com HTML, CSS e JavaScript
 - HTML
 - CSS
 - JavaScript
-
-📸 Imagens:            
-![Preview do projeto](
