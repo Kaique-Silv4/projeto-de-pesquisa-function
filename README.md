@@ -3,10 +3,10 @@ Neste projeto quis colocar a função de pesquisas em prática! E como um grande
 ---
 Aplicação web para pesquisas, desenvolvido com HTML, CSS e JavaScript
 
-##⌨️ Tecnologias:
+⌨️ Tecnologias:
 - HTML
 - CSS
 - JavaScript
 
-##📸 Imagens:
+📸 Imagens:            
 ![Preview do projeto](
